@@ -1,3 +1,7 @@
+RA:25001312	NOME: Altamiro de Lima Junior
+RA:25001214	NOME: Ygor Henrique dos Santos
+RA:25001044 NOME: Vinicius Leal Fonseca
+
 # Nota Clara
 
 Protótipo Flutter para fotografar ou selecionar uma nota fiscal e visualizar um resumo estruturado da análise.
